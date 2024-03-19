@@ -1,7 +1,7 @@
 [![MasterHead](https://pbs.twimg.com/profile_banners/951016349748355074/1678617602/1500x500)]([https://pantpad.io](https://github.com/pantpad))
 
-<h1 align="center">Hello, I'm Federico</h1>
-<h3 align="center">Frontend Developer</h3>
+<h1 align="left">Hello, I'm Federico</h1>
+<h3 align="left">Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
